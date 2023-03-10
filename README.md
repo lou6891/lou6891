@@ -61,6 +61,6 @@
 
 ###
 
-<! -- your comment  <img src="https://raw.githubusercontent.com/lou6891/lou6891/output/snake.svg" alt="Snake animation" /> -->
+[comment]: <> ( <img src="https://raw.githubusercontent.com/lou6891/lou6891/output/snake.svg" alt="Snake animation" /> )
 
 ###
