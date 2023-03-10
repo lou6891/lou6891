@@ -61,6 +61,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lou6891/lou6891/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lou6891/lou6891/output/snake.svg" alt="Snake animation" />
 
 ###
