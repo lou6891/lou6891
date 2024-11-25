@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="left">🔭 I’m currently finishing my Master in Computer Science<br><br>👨‍💻 All of my projects are available at www.lucaconti.io<br><br>🌱 I’m currently learning Natural Language Processing , Deep Learning and Big Data<br><br>⚡ Fun fact - Kangaroos can't walk backwards.</h4>
+<h4 align="left">🔭 I’m currently working as MlOps Engineer at EcoVadis<br><br>👨‍💻 All of my projects are available at www.lucaconti.io<br><br>🌱 Focused on LLM Agents solutions, Timeseries model (CEEMDAN, RF, LSTM, ...) <br><br>⚡ Fun fact - Kangaroos can't walk backwards.</h4>
 
 ###
 
@@ -49,7 +49,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="45" width="65" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" width="65" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45" width="65" alt="googlecloud logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="45" width="65" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="45" width="65" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="45" width="65" alt="Azure logo"  />          
 </div>
 
 ###
