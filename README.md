@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="left">🔭 I’m currently working as MlOps Engineer at EcoVadis<br><br>👨‍💻 All of my projects are available at www.lucaconti.io<br><br>🌱 Focused on LLM Agents solutions, Timeseries model (CEEMDAN, RF, LSTM, ...) <br><br>⚡ Fun fact - Kangaroos can't walk backwards.</h4>
+<h4 align="left">🔭 I’m currently working as MLOps Engineer at EcoVadis<br><br>👨‍💻 All of my projects are available at www.lucaconti.io<br><br>🌱 Focused on LLM Agents solutions, Timeseries model (CEEMDAN, RF, LSTM, ...) <br><br>⚡ Fun fact - Kangaroos can't walk backwards.</h4>
 
 ###
 
